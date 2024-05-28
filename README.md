@@ -38,6 +38,11 @@ O sensor ultrassônico mede a distância entre ele e o nível da água no recipi
 <img src="https://github.com/RafaelJango/HydroLink/assets/122299872/562cbb86-c3ad-48d8-839e-db9f67e9c4e1" width="700px"/>
 </div>
 
+## Participantes
+
+- Rafael Jango: RM555297
+- Rafael Bocchi: RM557603
+
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
